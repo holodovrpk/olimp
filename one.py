@@ -15,3 +15,5 @@ if len(a) == N:
         print(s)
 
 print("Конец")
+
+print("Конец2")

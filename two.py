@@ -15,3 +15,5 @@ else:
     print("нет")
 
 print("Конец")
+
+print("Конец2")
