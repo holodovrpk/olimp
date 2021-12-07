@@ -1,4 +1,5 @@
-
+def hello():
+    print("Hi")
 
 N = int(input())
 a = input().split()
@@ -15,3 +16,5 @@ if len(a) == N:
         print(s)
 
 print("Конец")
+
+hello()
