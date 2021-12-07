@@ -13,3 +13,5 @@ if len(a) == N:
         min_number = min(a)
         s = max_number + min_number
         print(s)
+
+print("Конец")
